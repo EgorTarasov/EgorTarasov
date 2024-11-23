@@ -12,7 +12,7 @@
 - **HSE [VIII summer school on mobile development](https://drive.google.com/file/d/1KquDspbTlRm1fB_RXIt5rLeyncGm7xAA/view?usp=drive_link) (ios swift)** (*summer 2021*)
 
 ### 💼 EXPERIENCE
-- **Intern Go Developer** at [MTS](https://mts-digital.ru/) (*fall 2024- autumn 2024*) development of the Content Delivery Netrowk system
+- **Intern Go Developer** at [MTS](https://mts-digital.ru/) (*spring 2024- autumn 2024*) development of the Content Delivery Netrowk system
 
 ### 📑 Projects
 - bot for working with volunteers of the Kronotsky Nature Reserve [@kronoki_bot](https://t.me/kronoki_bot)
