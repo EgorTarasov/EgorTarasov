@@ -16,6 +16,7 @@
 
 ### 📑 Projects
 - bot for working with volunteers of the Kronotsky Nature Reserve [@kronoki_bot](https://t.me/kronoki_bot)
+- pet projects can be found here [larek.tech](http://l.larek.tech/blog)
 
 ### 🏆 Competitions
 - [InnoglobalHack-2024](https://drive.google.com/file/d/1TTRpyVxI8VKNicwv14mvaIbZdtb7cN-3/view?usp=sharing) MTS: AIDocProcessing Prototype of an intelligent electronic document processing system: 2nd 🥈 place
