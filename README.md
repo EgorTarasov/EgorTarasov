@@ -20,6 +20,7 @@
 
 ### 🏆 Competitions
 - [InnoglobalHack-2024](https://drive.google.com/file/d/1TTRpyVxI8VKNicwv14mvaIbZdtb7cN-3/view?usp=sharing) MTS: AIDocProcessing Prototype of an intelligent electronic document processing system: 2nd 🥈 place
+- [T1 hackathon 2024](https://drive.google.com/file/d/1Mz8TZ2oY0YwYBoMx1qp1ZAwtc4GwKg8o/view?usp=drive_link): hr dashboard for optimizing hiring process using llms and machile learning: 2nd 🥈 place [solution](https://github.com/EgorTarasov/t1)
 - [True-tech mts hackathon 2024](https://drive.google.com/file/d/1yOxuyW2NA7Zt66iTf6WPULovAVKFzFK9/view?usp=sharing): 2nd 🥈 place [solution](https://github.com/EgorTarasov/true-tech)
 - [GagarinHack 2024](https://drive.google.com/file/d/1QnZ_ToqkY6_wlPCCQmQRgMm4SEUP6k1q/view?usp=sharing): digital platform for adaptation of first-year students, which, with the help of AI, helps students get used to the new educational environment and flexibly customize their development trajectory 1st 🥇 place [solution](https://github.com/EgorTarasov/gagarinhack/)
 - [Purple Hack](https://drive.google.com/file/d/1V8XbUwfnPYQ4vP9Z1ZLqtDEzr0JW4A9r/view?usp=sharing) A system that answers user questions on natural language from the Bank of Russia: 1st 🥇 place [solution](https://github.com/EgorTarasov/Purple-hack/)
