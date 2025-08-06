@@ -5,7 +5,7 @@
 - 🌱 Learning TypeScript for creating user interfaces for my projects
 - 🏆 10+ hackathon wins with focus on AI/ML and backend systems
 
-![github stats](https://github-readme-stats.vercel.app/api?username=EgorTarasov&show_icons=true&title_color=4287f5&icon_color=%234287f5&text_color=525252&bg_color=FFFFFF)
+![github stats](https://github-readme-stats.vercel.app/api?username=EgorTarasov&show_icons=true&title_color=4287f5&icon_color=4287f5&text_color=525252&bg_color=FFFFFF)
 
 ### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=go,python,docker,postgresql,kafka,ts,html,css,git)](https://skillicons.dev)
