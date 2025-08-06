@@ -39,7 +39,7 @@
 | [AviaHack](https://github.com/EgorTarasov/aviahack-2022) | 2022 | 🥇 1st | Airport bus route optimization |
 
 <details>
-<summary>🏅 All Competition Results (12 wins total)</summary>
+<summary>🏅 All Competition Results (5 wins, 12 placements total)</summary>
 
 | Competition | Year | Place | Project |
 |-------------|------|-------|---------|
